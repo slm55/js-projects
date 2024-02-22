@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header {
+    position: relative;
+    width: 100%;
+    height: 280px;
+    overflow: hidden;
+}
+
+header::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url(img/565d9076196a96580be3ed764aa85ea3b5937e5276357bbc9dd030a41f8c285b\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+    filter: blur(10px);
+    z-index: -1;
+}
+
+

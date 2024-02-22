@@ -1,0 +1,28 @@
+.cards {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    display: flex;
+    gap: 10px;
+    width: 200px;
+    padding: 10px;
+    align-items: center;
+    border: 1px solid grey;
+}
+
+.card div {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.card img {
+    max-width: 80px;
+    max-height: 40px;
+}
+
