@@ -1,0 +1,30 @@
+[
+    {
+       "id":1,
+       "brand":"Reebok",
+       "imgUrl":"https://a.lmcdn.ru/product/R/T/RTLACN769003_22188898_1_v1_2x.jpg",
+       "price":16100,
+       "category":"Футболка спортивная"
+    },
+    {
+       "id":2,
+       "brand":"Mango Man",
+       "imgUrl":"https://a.lmcdn.ru/img600x866/R/T/RTLADF619601_22105044_1_v1.jpg",
+       "price":19990,
+       "category":"Свитшот NOLA"
+    },
+    {
+       "id":3,
+       "brand":"Befree",
+       "imgUrl":"https://a.lmcdn.ru/img600x866/M/P/MP002XW127K0_21862929_1_v1_2x.jpg",
+       "price":18660,
+       "category":"Платье"
+    },
+    {
+       "id":4,
+       "brand":"Snow Airwolf",
+       "imgUrl":"https://a.lmcdn.ru/img600x866/R/T/RTLADC667701_21629813_1_v1_2x.jpg",
+       "price":34100,
+       "category":"Куртка утепленная"
+    }
+ ]
